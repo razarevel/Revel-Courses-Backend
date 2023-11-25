@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://github.com/razarevel/Revel-Courses/blob/main/src/assets/AboutPageAchivePNG/img%201.png?raw=true",
+    "title": "Trusted by Thousands",
+    "context": "We have successfully served thousands of students, helping them unlock their potential and achieve their career goals."
+  },
+  {
+    "id": 2,
+    "img": "https://github.com/razarevel/Revel-Courses/blob/main/src/assets/AboutPageAchivePNG/img%202.png?raw=true",
+    "title": "Award-Winning Courses",
+    "context": "Our courses have received recognition and accolades in the industry for their quality, depth of content, and effective teaching methodologies."
+  },
+  {
+    "id": 3,
+    "img": "https://github.com/razarevel/Revel-Courses/blob/main/src/assets/AboutPageAchivePNG/img%203.png?raw=true",
+    "title": "Positive Student Feedback",
+    "context": "We take pride in the positive feedback we receive from our students, who appreciate the practicality and relevance of our course materials."
+  },
+  {
+    "id": 4,
+    "img": "https://github.com/razarevel/Revel-Courses/blob/main/src/assets/AboutPageAchivePNG/img%204.png?raw=true",
+    "title": "Industry Partnerships",
+    "context": "We have established strong partnerships with industry leaders, enabling us to provide our students with access to the latest tools and technologies"
+  }
+]

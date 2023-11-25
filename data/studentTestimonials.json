@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "context": "The web design course provided a solid foundation for me. The instructors were knowledgeable and supportive, and the interactive learning environment was engaging. I highly recommend it!",
+    "img": "https://github.com/razarevel/Revel-Courses/blob/main/src/assets/TestimonialPNG/Image%202.png?raw=true",
+    "name": "Andrew Well"
+  },
+  {
+    "id": 2,
+    "context": "The web developement course provided a better understanding and real world problem to solve. The instructors knows his stuff, and the interactive learning environment was engaging. I hig...",
+    "img": "https://github.com/razarevel/Revel-Courses/blob/main/src/assets/TestimonialPNG/Image%201.png?raw=true",
+    "name": "Sarah L"
+  },
+  {
+    "id": 3,
+    "name": "Emily R",
+    "img": "https://github.com/razarevel/Revel-Courses/blob/main/src/assets/TestimonialPNG/Image%203.png?raw=true",
+    "heading": "The mobile app development course was fantastic! The step-by-step tutorials and hands-on projects helped me grasp the concepts easily. I'm now building my own app. Great course!"
+  },
+  {
+    "id": 4,
+    "name": "Michael K",
+    "img": "https://github.com/razarevel/Revel-Courses/blob/main/src/assets/TestimonialPNG/Image%204.png?raw=true",
+    "heading": "I enrolled in the graphic design course as a beginner, and it was the perfect starting point. The instructor's guidance and feedback improved my design abilities significantly. I'm grateful for this course!"
+  }
+]
