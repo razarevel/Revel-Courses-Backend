@@ -17,4 +17,10 @@ app.get("/api/goals", getGoal);
 app.get("/api/benefits", getBenefit);
 app.get("/api/courses", getCourses);
 app.get("/api/courses/:slug", getCourseBySlug);
+app.route("*").all((req, res) => {
+  res.status(400).json({
+    status: "fail",
+    message: "Inavlid route",
+  });
+});
 export default app;
