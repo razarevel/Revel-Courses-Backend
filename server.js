@@ -12,7 +12,7 @@ mongoose
   .then(() => console.log("Successfully connected to DB"))
   .catch((err) => console.log(err.message));
 // listen to server
-const port = 8000;
+const port = 3001;
 app.listen(port, () => {
   console.log(`App is listening to port ${port}`);
 });

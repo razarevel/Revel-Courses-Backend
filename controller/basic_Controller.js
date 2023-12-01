@@ -30,6 +30,8 @@ exports.getAllTestimonials = async (req, res) => {
   let testimonials = "";
   if (req.query.paginate) {
     testimonials = await Testimonials.find().select("-__v").limit(2);
+  } else {
+    testimonials = await Testimonials.find().select("-__v");
   }
   res.status(200).json({
     status: "success",
